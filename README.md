@@ -22,6 +22,7 @@ Feel free to check out my repositories to see what I’ve been working on!<br/>
 
 ## 📫 Connect with Me<br/>
 🔗 [LinkedIn – Pranav Satam](https://www.linkedin.com/in/pranav-satam)<br/>
+🔗 [EmailId - Pranav Satam](pranavsatam12345@gmail.com)<br/>
 
 ---<br/>
 
