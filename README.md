@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack<br/>
 - 💻 **Languages**: Java, JavaScript, HTML, CSS<br/>
-- 🌐 **Frameworks & Libraries**: Spring Boot, React.js, Node.js, Express.js<br/>
+- 🌐 **Frameworks & Libraries**: Spring Boot, React.js, Node.js, Express.js, JPOS<br/>
 - 🗄️ **Databases**: MySQL, MongoDB, Postgres<br/>
 - 🐳 **DevOps & Tools**: Docker, Postman<br/>
 - 🌱 **Currently Exploring**: Microservices, CI/CD, Cloud deployments<br/>
