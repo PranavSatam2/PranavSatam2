@@ -9,7 +9,7 @@
 - 🌐 **Frameworks & Libraries**: Spring Boot, React.js, Node.js, Express.js, JPOS<br/>
 - 🗄️ **Databases**: MySQL, MongoDB, Postgres<br/>
 - 🐳 **DevOps & Tools**: Docker, Postman<br/>
-- 🌱 **Currently Exploring**: Microservices, CI/CD, Cloud deployments<br/>
+- 🌱 **Currently Exploring**: Microservices, CI/CD, Cloud deployments, AWS<br/>
 
 ## 📂 Projects<br/>
 I’ve worked on multiple projects involving:<br/>
